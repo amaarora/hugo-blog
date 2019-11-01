@@ -2,3 +2,22 @@ baseURL = "https://amaarora.github.io/"
 languageCode = "en-us"
 title = "Aman Arora"
 theme = "hyde-hyde"
+
+## Site Settings
+[params]
+    author = "Aman Arora"
+    title = "Aman Arora"
+
+
+## Social Accounts
+[params.social]
+    github = "amaarora"
+    linkedin = "aroraaman"
+    twitter = "amaarora"
+    email = "aman.arora0210@gmail.com"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 50
+    url = "/about/"
