@@ -21,3 +21,9 @@ theme = "hyde-hyde"
     identifier = "about"
     weight = 50
     url = "/about/"
+
+[[menu.main]]
+    name = "Posts"
+    identifier = "posts"
+    weight = 100
+    url = "/posts/"
